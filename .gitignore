@@ -5,4 +5,4 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 !.vscode/ftp-sync.json
-*.code-workspace
+*.code-workspace 
